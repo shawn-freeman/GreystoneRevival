@@ -28,6 +28,11 @@
 # Executables
 *.exe
 *.out
+# My Custom Directories
+_CLAUDE_IMGS/
+
+
+#EVERYTHING ELSE
 *.app
 *.ipa
 
